@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "674d875e8eb7db28e143f671"
+  },
+  "name": "Ishan Anuradha",
+  "img": "user_icon_2",
+  "email": "mgianuradha@gmail.com",
+  "password": "$2a$10$9mOXfypwcTciJkxfOtlG5e.tCVSz12ach.EivDdz5txfCzbajdpia",
+  "createdAt": {
+    "$date": "2024-12-02T10:09:34.103Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:09:34.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ed3f88eb7db28e143f675"
+  },
+  "name": "Demo User 2",
+  "email": "mgianurad9ha@gmail.com",
+  "img": "user_icon_1",
+  "password": "$2a$10$iOSwrnYaeOC7T7p8cJqbFOKOGtBLpERrK6jSLkBebks9DXAGhrhQK",
+  "createdAt": {
+    "$date": "2024-12-03T09:48:40.121Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T09:48:40.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674fe31c334bd3f283b4a7b7"
+  },
+  "name": "Shan De Silva",
+  "email": "anuboyanu@mail.com",
+  "img": "user_icon_3",
+  "password": "$2a$10$IgCOCvBoyuiVgQJa2JjUwuHkXPsmsiJR7/EtBllGusty5Zx0VndMa",
+  "createdAt": {
+    "$date": "2024-12-04T05:05:32.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T05:05:32.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674fe42e334bd3f283b4a7c3"
+  },
+  "name": "Zetty Zaman",
+  "email": "anuboywwwanu@mail.com",
+  "img": "user_icon_5",
+  "password": "$2a$10$xxroCZa94p59BZegTi7mL.yAzvlMhBDIcXKZffP0fho0CScgRZtxa",
+  "createdAt": {
+    "$date": "2024-12-04T05:10:06.792Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T05:10:06.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67579acee5510c70d2eb8236"
+  },
+  "name": "Ishan Anuradha TEST",
+  "email": "1anuboyanu@mail.com",
+  "password": "$2a$10$oJ9v5ebXtQKXkuvlWdFR2uF/gzE0OtC8MRCTE0IFxinYWIY2fXIDS",
+  "img": "user_icon_1",
+  "createdAt": {
+    "$date": "2024-12-10T01:35:10.971Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-10T01:35:10.972Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67579ee5e5510c70d2eb8238"
+  },
+  "name": "Random user 1",
+  "email": "anuboyanu1@mail.com",
+  "password": "$2a$10$/aAezUgo4tP.LzHFYIumo.2VCdhBVpqrDKm7jfrntnvQJ6aZeNgmG",
+  "img": "",
+  "createdAt": {
+    "$date": "2024-12-10T01:52:37.907Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-10T01:52:37.908Z"
+  },
+  "__v": 0
+}]
